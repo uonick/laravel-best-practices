@@ -28,7 +28,7 @@
 
 * Будьте осторожны с именами при создании пользовательских классов и методов, особенно с вашими моделями. **Laravel** работает по такому принципу: для таблицы с именем `users` имя модели будет `User`.
 
-* Старайтесь валидировать все ваши запросы через [Request validation](https://laravel.com/docs/5.3/validation#form-request-validation).
+* Старайтесь валидировать все ваши запросы через [Request validation](https://laravel.com/docs/master/validation#form-request-validation).
 
 * Хотя **PHP** имеет класс `DateTime`, рекомендуется использовать **Carbon Library** для работы с датами.
 
