@@ -38,4 +38,4 @@
 
 Не стесняйтесь добавлять в список рекомендации...
 
-[Идея для перевода была взята здесь](https://medium.com/@adebsalert/laravel-the-right-way-best-practices-2346cd6c5d89)
+[Вольный перевод и адаптация статьи](https://medium.com/@adebsalert/laravel-the-right-way-best-practices-2346cd6c5d89)
